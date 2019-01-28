@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerEx_And9amjan19</string>
+     <string-array name="countries">
+            <item>Select Gender</item>
+             <item>Male</item>
+             <item>FeMale</item>
+     </string-array>
+
+</resources>
